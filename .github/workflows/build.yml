@@ -40,7 +40,7 @@
       - 名字: 提交更改
 跑: |
 git config--全局用户. name“181728”
-git config --global user.email "1817281988"
+git config --global user.email "1817281988@qq.com"
 添加windows/IPTV-hebei.exe
 git添加windows/windows_test.exe
 git commit -m “更新Windows可执行文件”
