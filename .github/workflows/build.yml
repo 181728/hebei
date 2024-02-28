@@ -16,7 +16,7 @@
       - 名字: 签出库
 用途: actions/checkout@v2
 
-      - 名字: 设置 Python
+      - 名字: Python
 用途: actions/setup-python@v2
 与:
           python-version: 3.x
